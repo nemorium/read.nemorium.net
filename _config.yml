@@ -2,8 +2,8 @@
 # [x] 설정 -- /_config.yml
 # [x] 도메인 -- /CNAME
 # [x] 메뉴 구성 -- /_includes/nav.html
-# [ ] 첫 페이지 제목 -- /index.md
-# [ ] 아카이브 제목 -- /archives.md
+# [x] 첫 페이지 제목 -- /index.md
+# [x] 아카이브 제목 -- /archives.md
 
 # 운영자 정보
 author: "@oxmhpark"
