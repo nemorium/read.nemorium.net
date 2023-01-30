@@ -1,4 +1,4 @@
 ---
 layout: archives-posts-recent
-title: Homepage
+title: 독서노트
 ---
