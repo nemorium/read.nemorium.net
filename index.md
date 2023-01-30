@@ -1,4 +1,4 @@
 ---
 layout: archives-posts-recent
-title: 독서노트
+title: 최근 독서노트
 ---
